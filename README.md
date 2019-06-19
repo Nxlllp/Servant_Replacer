@@ -2,7 +2,7 @@
 
 # command
 
-/8 pow 3~40 (3~40 power)
+/8 pow 3-40 (3-40 power)
 
 /8 skill servantskillId
 
