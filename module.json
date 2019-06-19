@@ -1,0 +1,14 @@
+{
+    "disableAutoUpdate": false,
+    "name": "Servant Replacer",
+    "author": "Nxlllp",
+    "description": "Replaces your pet's active skill.",
+    "version": "1.0.0",
+    "donationUrl": "https://paypal.me/nxlp?locale.x=ja_JP",
+    "options": {
+        "niceName": "Servant_Replacer",
+        "guiName": "Servant Replacer"
+    },
+    "servers": ["https://raw.githubusercontent.com/Nxlllp/Servant_Replacer/master/"],
+    "supportUrl": "https://github.com/Nxlllp/Servant_Replacer/issues"
+}
